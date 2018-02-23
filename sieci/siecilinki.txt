@@ -17,6 +17,15 @@
 ### Test sql server injection
  - https://sekurak.pl/podatnosc-server-side-template-injections/
 
+### kontenery i inne
+ - https://www.nsnam.org/wiki/HOWTO_Use_Linux_Containers_to_set_up_virtual_networks
+ - http://big-elephants.com/2015-09/virtual-public-network-setup-with-gentoo-and-kvm/
+ - http://www.oops.co.at/blog/kvm-setting-up-network-bridging-with-systemd-on-gentoo
+ - https://www.funtoo.org/LXC_Fun
+ - https://www.funtoo.org/LXD
+ - https://stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/
+ - https://bayton.org/docs/linux/lxd/lxd-zfs-and-bridged-networking-on-ubuntu-16-04-lts/
+ - https://github.com/globalcitizen/lxc-gentoo
  
 #### Materiały w pdf
  - http://www.phenoelit.org/stuff/papers.html
