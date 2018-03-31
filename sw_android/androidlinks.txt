@@ -10,13 +10,19 @@
    ant debug
    adb install -r  /opt/android-ndk-r7b/samples/bitmap-plasma/bin/Plasma-debug.apk
 ```
+### GOOGLE CODELABS
+ - https://g.co/codelabs
 
 ### Kotlin
  - [Kurs Kotlina po polsku na youtube](https://www.youtube.com/watch?v=lPv0_Gc2wcc&index=2&list=PLCANL9WHTsiGeQzn72AUU6FH3p3aoAiMM)
  - https://try.kotlinlang.org
+ - http://kotlinbyexample.org/
  - https://kotlin.link/
  - https://github.com/KotlinBy/awesome-kotlin
  - https://github.com/kotlin/anko-example
+ - https://www.codementor.io/jessicathornsby/write-better-kotlin-getting-started-with-anko-for-android-ecwt3p6hz
+ - https://medium.com/@v.souhrada/introduction-to-anko-for-android-part-1-6178d536cbe6
+ - https://codelabs.developers.google.com/codelabs/notification-channels-kotlin/index.html#0
  - https://github.com/nekocode/Kotlin-Android-Template
  - https://www.raywenderlich.com/168038/common-design-patterns-android-kotlin
  - https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
@@ -39,16 +45,6 @@
  - https://developer.android.com/kotlin/get-started.html
  - https://fernandocejas.com/2017/02/03/android-testing-with-kotlin/
  - https://blog.jetbrains.com/kotlin/2016/03/kotlin-educational-plugin/
-
-### New ideas - dockers
- - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
- - https://github.com/tomwillfixit/unity3d
- - https://github.com/protomouse/godot-docker
- - https://github.com/domeide
- - https://github.com/chuck-knox/sublime3-docker
- - https://github.com/docbill/sublime-text-3
- - https://packagecontrol.io/packages/Docker%20Based%20Build%20Systems
- - https://github.com/nickjj/sublime-text-3-packages
 
 ### New libraries
  - http://jakewharton.github.io/butterknife/
