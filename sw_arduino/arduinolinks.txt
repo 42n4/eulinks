@@ -3,7 +3,12 @@
  - http://feriar-lab.pl/kurs-arduino/
  
 ### Blogi
+ - http://www.instructables.com/technology/arduino/
+ - https://www.theengineeringprojects.com/category/arduino-projects
  - http://hobbyspace.pl/category/arduino/
+
+###Fonty
+ - http://omerk.github.io/lcdchargen/
  
 ### Timery
  - http://forum.arduinopolska.com/watek-biblioteka-timers-koniec-z-uci%C4%85%C5%BCliwym-delay (http://bit.ly/arduinotimer)

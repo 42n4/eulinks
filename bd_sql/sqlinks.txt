@@ -9,6 +9,7 @@
 
  * http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems
 
+```
 Dla wahających się z wyborem projektu polecam stronę
 z modelami do wyboru:
  * http://www.databaseanswers.org/data_models/
@@ -16,8 +17,13 @@ Jeśli się korzystało z tej strony, należy wskazać na model i opisać
 wprowadzone modyfikacje oraz opisać dokładnie słabe encje, klucze główne i
 obce, sprawdzić czy rozkład do postaci trzeciej normalnej jest optymalny np.
 analizę kolejnych kroków projektowania schematu relacyjnego bazy.
+```
 
+<<<<<<< HEAD
+### POstgreSQL:
+=======
 ### PostgreSQL:
+>>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://blog.endpoint.com/2014/04/speeding-up-saving-millions-of-orm.html
  * http://www.slideshare.net/markwkm/andoird-postgresql
  * http://www.slideshare.net/nosys/using-postgre-sqljavapgcon2014
@@ -30,6 +36,10 @@ analizę kolejnych kroków projektowania schematu relacyjnego bazy.
 ### Dla początkujących blogi:
  * http://database-programmer.blogspot.com/2008/01/database-skills-sane-approach-to.html
  * http://database-programmer.blogspot.com/2008/01/table-design-patterns.html
+<<<<<<< HEAD
+
+=======
+>>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
 ### Odnośniki wyżej zamieszczone pobrane zostały ze stackoverflow:
  * http://stackoverflow.com/questions/145689/relational-database-design-patterns
  * http://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database
@@ -46,6 +56,18 @@ analizę kolejnych kroków projektowania schematu relacyjnego bazy.
 ### Narzędzia:
 #### DBDesignerFork
  * http://sourceforge.net/projects/dbdesigner-fork/
+<<<<<<< HEAD
+### DBDesigner 
+ * http://www.fabforce.net/dbdesigner4/
+### DBUML
+ * http://sourceforge.net/projects/dbuml/files/complete%20package/1.0.4/
+### DIA
+ * http://sourceforge.net/projects/dia2sql/
+ * https://wiki.gnome.org/action/show/Apps/Dia?action=show&redirect=Dia
+ * http://dia-installer.de/index.html.en
+
+### SQLDeveloper dodatek SQLModeler (od wersji 3 zawarty w Developerze):
+=======
 #### DBDesigner 
  * http://www.fabforce.net/dbdesigner4/
 #### DBUML
@@ -55,6 +77,7 @@ analizę kolejnych kroków projektowania schematu relacyjnego bazy.
  * https://wiki.gnome.org/action/show/Apps/Dia?action=show&redirect=Dia
  * http://dia-installer.de/index.html.en
 #### oraz SQLDeveloper dodatek SQLModeler (od wersji 3 zawarty w Developerze):
+>>>>>>> 86cb8d518b2dd348b722053416eb44bec523baff
  * http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html
  * http://stackoverflow.com/questions/6580529/how-to-generate-e-r-diagram-using-oracle-sql-developer
  * http://www.oracle.com/technetwork/developer-tools/datamodeler/demonstrations-224554.html

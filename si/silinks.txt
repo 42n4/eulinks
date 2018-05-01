@@ -3,6 +3,7 @@
  - https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
  - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
+ - https://pythonprogramming.net/predictions-svm-machine-learning-tutorial/?completed=/svm-optimization-python-2-machine-learning-tutorial/
 
 ##### Prolog, Haskell
  - http://jmvanel.free.fr/ai/prolog-getting-started.html
@@ -28,12 +29,19 @@
  - http://www.wildml.com/2016/10/learning-reinforcement-learning/
  - http://deeplearning.net/software/libgpuarray/
 
+
+### SVM in R
+ - https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Classification/SVM
+ - http://dimensionless.in/rblog/SVM_blog.html
+
 ### tutorial wykładowy
 - https://github.com/pwasiewi/eusi/blob/master/skrypty/01stepfirst.R
 - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
 ### r python
 - http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
+- https://cran.r-project.org/web/packages/h2o4gpu/vignettes/getting_started.html
+- http://hydroecology.net/fun-with-reticulate-salib/
 
 ### do projektu serwer zadań do rozwiązania z podpowiedziami i tutoriale
 - https://www.kaggle.com/competitions
@@ -56,6 +64,7 @@
 
 ### online R pomoc - przykładowa funkcja mvrnorm
  - http://www.inside-r.org/packages/cran/rockchalk/docs/mvrnorm
+ - http://mqasim.me/?p=159807
 
 ### R gpu
  - https://github.com/cdeterman/gpuR
