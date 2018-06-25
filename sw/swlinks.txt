@@ -1,8 +1,18 @@
 ## Intro
  - https://ep.com.pl/artykuly/10809-Nie_samym_Raspberry_Pi_czlowiek_zyje.html
  - https://ep.com.pl/files/12158.pdf
+ - https://wiki.gentoo.org/wiki/Embedded_systems/ARM_hardware_list
+ - https://www.elektroda.pl/rtvforum/forum202.html
+ - https://blog.hackster.io/
+ - https://wiki.odroid.com/start
+ - https://wiki.gentoo.org/wiki/Orange_Pi_Plus2
+ 
+## Inteligentny dom
+ - https://www.openhab.org/
+ - https://www.supla.org/
 
 ## RTOS
+ - https://www.osrtos.com/
  - https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
  - https://www.freertos.org
  - http://ecos.sourceware.org
@@ -47,5 +57,17 @@
  - https://github.com/landley/aboriginal
 
  ## ESP32
+ - http://esp32.net/
+ - https://www.wemos.cc/
  - http://www.geekstips.com/esp32-review-idf-programming-tutorial/
-
+ - https://blog.pawelszabaciuk.pl/category/esp32/
+ - https://wiki.wemos.cc/doku.php
+ - http://uczymy.edu.pl/wp/blog/2016/09/25/wemos-d1-mini-esp8266-troche-inaczej/
+ - https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/debian_ubuntu.md
+ 
+ ## STM32
+ - https://johan.kanflo.com/hacking-the-dps5005/
+ - https://www.crowdsupply.com/johan-kanflo/aaduino-zero
+ - https://1bitsquared.com/products/black-magic-probe
+ - https://github.com/libopencm3/libopencm3-examples
+ - https://github.com/libopencm3/libopencm3/wiki
