@@ -13,6 +13,7 @@
  - https://handsonopencl.github.io/
  - https://github.com/HandsOnOpenCL/Lecture-Slides
  - https://github.com/HandsOnOpenCL/Exercises-Solutions
+ - https://www.codeproject.com/Articles/Rob-Farber#Article
  - https://streamhpc.com/knowledge/for-developers/tutorials/
  - https://developer.apple.com/library/content/documentation/Performance/Conceptual/OpenCL_MacProgGuide/TuningPerformanceOntheGPU/TuningPerformanceOntheGPU.html
  - https://www.eriksmistad.no/getting-started-with-opencl-and-gpu-computing/
@@ -20,12 +21,14 @@
  - https://github.com/OpenCL/OpenCLCXXPortingGuidelines/blob/master/OpenCLCToOpenCLCppPortingGuidelines.md
  
 ### OpenCL examples
+ - http://www.bealto.com/gpu-gemv_v1.html
  - https://wiki.tiker.net/PyOpenCL/Examples/MedianFilter
  - https://software.intel.com/en-us/articles/gpu-quicksort-in-opencl-20-using-nested-parallelism-and-work-group-scan-functions
  - http://arrayfire.com/quest-for-the-smallest-opencl-program/
  - https://github.com/bgaster/opencl-book-samples
  - https://github.com/smistad/OpenCLUtilities
  - http://gpgpu-computing4.blogspot.com/2009/09/matrix-multiplication-2-opencl.html
+ - https://github.com/Dakkers/OpenCL-examples
 
 ### HASH PASS
  * http://whitepixel.zorinaq.com/
@@ -38,6 +41,9 @@
  * https://blog.thireus.com/cracking-story-how-i-cracked-over-122-million-sha1-and-md5-hashed-passwords/
  * https://www.question-defense.com/2010/08/15/automated-password-cracking-use-oclhashcat-to-launch-a-fingerprint-attack
  * https://wiki.skullsecurity.org/Passwords
+
+### Appz
+ - https://luxcorerender.org/
 
 ### AMD ROCm only ubuntu 16.04 or centos, but Open Source (so maybe in future)
  - https://github.com/ROCmSoftwarePlatform/tensorflow
