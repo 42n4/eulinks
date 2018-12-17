@@ -6,7 +6,6 @@
  * http://freescienceonline.blogspot.com/2008/03/more-computing-video-lecture-courses.html
  * http://videolectures.net
  * http://www.refseek.com/directory/educational_videos.html
-
  * http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems
 
 ```
@@ -18,6 +17,9 @@ wprowadzone modyfikacje oraz opisać dokładnie słabe encje, klucze główne i
 obce, sprawdzić czy rozkład do postaci trzeciej normalnej jest optymalny np.
 analizę kolejnych kroków projektowania schematu relacyjnego bazy.
 ```
+
+### Bazy danych ranking
+ - https://db-engines.com/en/ranking
 
 ### PostgreSQL:
  - https://pgmodeler.io
