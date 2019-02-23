@@ -15,6 +15,7 @@
 # Kotlin 
 
 #### Kotlin coroutines
+ - https://geek.justjoin.it/kotlin-coroutine-pewno-kolejny-krok-dla-programisty-rxjava/
  - https://github.com/Kotlin/kotlinx.coroutines
  - https://github.com/Kotlin/kotlinx.coroutines/blob/master/ui/coroutines-guide-ui.md
  - https://akarnokd.blogspot.ru/2017/09/rxjava-vs-kotlin-coroutines-quick-look.html
@@ -22,6 +23,9 @@
  - https://fr.slideshare.net/elizarov/introduction-to-coroutines-kotlinconf-2017
  - https://www.youtube.com/watch?v=YrrUCSi72E8
  - https://www.slideshare.net/elizarov/deep-dive-into-coroutines-on-jvm-kotlinconf-2017
+ - https://www.slideshare.net/elizarov/kotlin-coroutines-in-practice-kotlinconf-2018
+ - https://proandroiddev.com/kotlin-coroutines-vs-rxjava-an-initial-performance-test-68160cfc6723
+ - https://github.com/elizarov/CoroutinesWorkshop
 
 #### Anko Android
  - https://github.com/kotlin/anko-example
@@ -29,6 +33,7 @@
  - https://medium.com/@v.souhrada/introduction-to-anko-for-android-part-1-6178d536cbe6
 
 #### Rxkotlin i inne
+ - https://badootech.badoo.com/building-a-system-of-reactive-components-with-kotlin-ff56981e92cf
  - https://erikcaffrey.github.io/ANDROID-kotlin-arch-components/
  - https://github.com/ReactiveX/RxKotlin
  - https://www.raywenderlich.com/170233/reactive-programming-rxandroid-kotlin-introduction
@@ -66,7 +71,9 @@
  - http://nilhcem.com/swift-is-like-kotlin/
  - [Blog książki o Kotlin w Android](https://antonioleiva.com/category/blog/)
  - https://blog.jetbrains.com/kotlin/
-
+ - https://github.com/dbacinski/Design-Patterns-In-Kotlin
+ - https://proandroiddev.com/kotlin-design-patterns-8e152540ee2c
+ - https://blog.kotlin-academy.com/a-few-facts-about-companion-objects-37e18429b725
 
 #### Kotlin and libraries
  - http://docs.paralleluniverse.co/quasar/
