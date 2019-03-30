@@ -14,6 +14,10 @@
 
 # Kotlin 
 
+### Frameworks
+ - https://badootech.badoo.com/building-a-system-of-reactive-components-with-kotlin-ff56981e92cf
+ - https://github.com/badoo/MVICore
+
 #### Kotlin coroutines
  - https://geek.justjoin.it/kotlin-coroutine-pewno-kolejny-krok-dla-programisty-rxjava/
  - https://github.com/Kotlin/kotlinx.coroutines

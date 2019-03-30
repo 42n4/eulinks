@@ -44,6 +44,8 @@
  - https://elitedatascience.com/imbalanced-classes
  - http://vknight.org/unpeudemath/python/2017/09/16/using-python-in-R-to-study-the-ipd.html
  - http://hydroecology.net/fun-with-reticulate-salib/
+ - https://towardsdatascience.com/
+ - https://datascienceplus.com/using-mongodb-with-r/
  
  ##### IPython Jupyter case studies, tutors, tools
   - https://ipython-books.github.io/
@@ -52,6 +54,7 @@
   - https://github.com/apache/spark/tree/master/examples/src/main
   - https://medium.com/fundbox-engineering/overview-d3759e83969c
   - https://spark.apache.org/
+  - https://medium.com/@GaryStafford/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker-ba39d2e3d6c7
   
 ##### SVM case studies & examples
  - http://blog.echen.me/2017/05/30/exploring-lstms/
@@ -102,11 +105,14 @@
 * http://www.r-bloggers.com/self-organising-maps-for-customer-segmentation-using-r-2/ 
 * http://www.r-bloggers.com/visualizing-neural-networks-in-r-update/
 * http://www.r-bloggers.com/visualizing-neural-networks-from-the-nnet-package/ 
+ - [Deep Learning introduction (in Polish)](https://pclab.pl/art79689.html)
 
 ##### Basics of Tensorflow 
  - https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d
  - https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
+ - https://github.com/nfmcclure/tensorflow_cookbook/blob/master/11_More_with_TensorFlow/02_Working_with_a_Genetic_Algorithm/02_genetic_algorithm.py
  * [Tensorflow in R](https://tensorflow.rstudio.com/)
+ 
 
 ### Microsoft R Python ML
  - https://blogs.msdn.microsoft.com/mlserver/2018/07/26/dockerizing-r-and-python-web-services/
@@ -122,6 +128,9 @@
  - https://msropendata.com/
  - http://htmlpreview.github.io/?https://github.com/lixzhang/R-MRO-MRS/blob/master/Introduction_to_MRO_and_MRS.html
  - https://github.com/nuest/docker-mro
+ - https://blog.revolutionanalytics.com/2011/04/new-functions-for-linear-model-inference-in-4-3.html
+ - https://github.com/mmparker-msft/intro_to_mrs
+ - https://github.com/Microsoft/MRSWorkshopStudent/tree/master/Labs
 
 ### Basic R methods & analysis
 - https://beckmw.wordpress.com/2013/02/05/collinearity-and-stepwise-vif-selection/
@@ -130,14 +139,15 @@
 - https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
 - https://github.com/eddelbuettel/rcppexamples
 - http://www.jstatsoft.org/v40/i01
-- https://github.com/cdeterman/gpuR [OpenCL kernels in R]
+- [OpenCL kernels directly in R](https://github.com/cdeterman/gpuR)
 - http://www.statmethods.net/management/reshape.html
 - http://michael.hahsler.net/research/arules_RUG_2015/demo/R_arules_demo_SQF2012.R
 - http://www.stevebronder.com/news/2014/8/3/8el0szzsaxhfiljvkf8f4uty2yiinh
+- https://www.r-bloggers.com/pca-and-k-means-clustering-of-delta-aircraft/
  
 ##### R webinars
 - https://vimeo.com/89562453
-- https://www.youtube.com/watch?v=7Jbb2ItbTC4 #caretwebinar
+- [Caret webinar](https://www.youtube.com/watch?v=7Jbb2ItbTC4)
 - http://www.r-bloggers.com/caret-webinar-materials/
 - https://cran.r-project.org/web/packages/RSelenium/vignettes/webinar.html
 

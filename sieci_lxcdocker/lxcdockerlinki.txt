@@ -1,6 +1,40 @@
 :cloud:
 ### Kursy sieciowe 
  - https://www.cybrary.it/
+
+### Openstack
+ - https://docs.openstack.org/devstack/latest/guides/single-machine.html
+ - https://docs.openstack.org/devstack/latest/guides/single-vm.html
+ 
+### Minikube 
+ - https://github.com/kubernetes/minikube
+ - https://kubernetes.io/docs/tutorials/hello-minikube/
+ - https://kubernetes.io/docs/setup/minikube/
+ - https://kubecloud.io/minikube-workflows-d7166e1da290
+ - https://github.com/dysinger/learn-minikube
+ - https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/
+ - http://kubevirt.io/quickstart_minikube/
+ - https://github.com/dhiltgen/docker-machine-kvm
+ - https://github.com/janakiramm/minikube-demo
+ - https://microservices-demo.github.io/deployment/kubernetes-minikube.html
+ - https://github.com/pkdone/minikube-mongodb-demo
+ - https://github.com/kubevirt/demo
+ - https://github.com/zzOzz/minikube-gitlab-tutorial
+ - https://github.com/jmccann/drone-in-minikube
+ - https://github.com/whindes/alpine-minikube
+ - https://github.com/ryandawsonuk/minions
+ - https://github.com/siphesande/magento2-minikube
+ - https://github.com/acinwinstack/minikube-intro-workshop
+ - https://github.com/oktadeveloper/jhipster-microservices-example
+ - https://github.com/nahidulhasan/laravel-docker-k8s
+ - https://github.com/reachlin/k8s0
+ - https://github.com/gkocur/minikube-workshop
+ - https://github.com/emaildanwilson/minikube-federation
+ - https://github.com/kevinstl/minikube-easy
+ - https://docs.openstack.org/kolla-kubernetes/0.3.0/minikube-quickstart.html
+ - https://asciinema.org/a/134953
+ - https://asciinema.org/a/98639
+ - https://asciinema.org/a/210283
  
 ### Bazy danych dla dockerów
  - https://blog.yugabyte.com/docker-kubernetes-and-the-rise-of-cloud-native-databases/
@@ -19,6 +53,7 @@
  
 
 ### New ideas - dockers
+ - https://github.com/theUniC/vagrant-docker-example
  - http://blog.zenika.com/2015/06/15/Docker-meets-the-IDE/
  - https://github.com/tomwillfixit/unity3d
  - https://github.com/protomouse/godot-docker
