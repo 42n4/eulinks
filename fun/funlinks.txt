@@ -26,3 +26,16 @@
  - https://github.com/goofball222/factorio
  - https://forums.factorio.com/viewtopic.php?f=53&p=397798#p397798
  
+## Lego BrickPI 
+ - http://pdwhomeautomation.blogspot.com/2012/11/raspberry-pi-powered-lego-car.html
+ - https://www.dexterindustries.com/product/brickpi-advanced-for-raspberry-pi/
+ - https://www.ev3dev.org/
+ - https://www.dexterindustries.com/raspberry-pi-robot-software/
+ - https://github.com/DexterInd/BrickPi3
+ 
+## Mycroft Picroft Alexa
+ - https://mycroft.ai/
+ - https://mycroft.ai/documentation/picroft
+ - https://towardsdatascience.com/piexa-raspberry-pi-amazon-alexa-a-step-by-step-guide-to-build-your-own-hands-free-alexa-with-285c4bc73705
+ - https://www.hackster.io/amazon-alexa
+ - https://github.com/alexa/skill-sample-nodejs-fact
