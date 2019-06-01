@@ -86,7 +86,7 @@ emerge minetest minetest_game
 ##### MINECLONE2 https://forum.minetest.net/viewtopic.php?f=50&t=16407
 ```
 cd /usr/share/minetest/games
-[ ! -f MineClone2.zip ] && wget http://repo.or.cz/MineClone/MineClone2.git/snapshot/5e31db04d7f68c0da6e08fc273d3d3347da26e13.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-5e31db0 MineClone2 && rm MineClone2.zip
+[ ! -f MineClone2.zip ] && wget https://repo.or.cz/MineClone/MineClone2.git/snapshot/0.53.2.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-0.53.2-d43caec MineClone2 && rm MineClone2.zip
 # ten mineclone2 jest jednak zbyt eksperymentalny i może brakować plików!!! 
 # git clone http://repo.or.cz/MineClone/MineClone2.git
 ```
@@ -109,7 +109,8 @@ cd /usr/share/minetest/games/minetest_game/mods
 [ ! -d 3d_armor ] && wget  https://github.com/stujones11/minetest-3d_armor/archive/master.zip -O 3d_armor-master.zip && unzip 3d_armor-master.zip && rm 3d_armor-master.zip && mv minetest-3d_armor-master 3d_armor
 # można tez z: git clone https://github.com/stujones11/minetest-3d_armor 3d_armor
 for i in moreblocks moreores pipeworks mesecons technic; do [ ! -d $i ] && git clone https://github.com/minetest-mods/$i; done;
-for i in smartshop aliveai; do [ ! -d $i ] && git clone https://github.com/AiTechEye/$i; done;
+[ ! -d smartshop ] && git clone https://github.com/AiTechEye/smartshop
+[ ! -d aliveai ] && git clone https://github.com/AiTechEye/aliveai
 mv aliveai alive && mv alive/* . && rm -rf alive
 sed -i 's/status=false/status=true/g' aliveai/init.lua 
 sed -i 's/Sam/euteam/g' aliveai/init.lua 
