@@ -5,11 +5,18 @@
 ### Projekty elektroniczne online z Arduino
  - https://www.tinkercad.com
  
+### Projekty sprzętowe
+ - https://www.instructables.com/id/Wipy-the-Overly-Motivated-Whiteboard-Cleaner/
+ - https://www.thingiverse.com/thing:2872978
+ - https://www.makeuseof.com/tag/dont-spend-money-on-an-arduino-build-your-own-for-much-less/
+ 
 ### Blogi
  - http://www.instructables.com/technology/arduino/
+ - https://www.instructables.com/id/Wipy-the-Overly-Motivated-Whiteboard-Cleaner/
  - https://www.theengineeringprojects.com/category/arduino-projects
  - http://hobbyspace.pl/category/arduino/
  - https://majsterkowo.pl/elektronika/arduino/
+ - https://zaufanatrzeciastrona.pl/post/jak-podlaczyc-dom-do-chmury-czyli-domoticz-i-arduino/
 
 ### FreeRTOS
  - https://exploreembedded.com/wiki/index.php?title=Task%20Switching#Category:Free%20RTOS%20with%20Arduino

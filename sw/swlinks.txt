@@ -19,6 +19,16 @@
  - https://hackaday.io
  - https://www.elektroda.pl/
  - https://blog.hackster.io/
+ - https://w4krl.com/iot-kits/
+ - https://majsterkowo.pl/solarna-stacja-meteo-z-wykorzystaniem-wemos-d1-mini-pro-oraz-raspberry-pi-3-b-czesc-1/
+ - https://starter-kit.nettigo.pl/2017/05/nodemcu-sds011-jako-badacz-jakosci-powietrza/
+ - https://majsterkowo.pl/raspberry-pi-barebone-arduino-domoticz-inteligentny-dom-kazdego/
+ - https://majsterkowo.pl/homeduino-inteligenty-dom-z-arduino-oraz-raspberry-pi/
+
+## ML micro unit
+ - https://www.arrow.com/en/research-and-events/articles/google-coral-demo-flashing-the-google-coral-tpu-dev-board
+ - https://www.tensorflow.org/lite/microcontrollers/get_started
+
 
 ## Kickstarter
  - https://www.kickstarter.com/projects/sphero/sphero-rvr-the-go-anywhere-do-anything-programmabl/
@@ -26,6 +36,7 @@
 ## Inteligentny dom
  - https://www.openhab.org/
  - https://www.supla.org/
+ - https://www.domoticz.com/  connects also xiaomi 
 
 ## RTOS
  - https://www.osrtos.com/
@@ -80,6 +91,9 @@
  - https://wiki.wemos.cc/doku.php
  - http://uczymy.edu.pl/wp/blog/2016/09/25/wemos-d1-mini-esp8266-troche-inaczej/
  - https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/debian_ubuntu.md
+ - https://www.instructables.com/id/ESP32-and-DC-Motors-Tutorial-Part-1/
+ - http://wiki.seeedstudio.com/Seeeduino_GPRS/
+ - https://www.elektroda.pl/rtvforum/topic3596203.html
  
  ## STM32
  - https://johan.kanflo.com/hacking-the-dps5005/
