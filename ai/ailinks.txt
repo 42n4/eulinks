@@ -8,7 +8,17 @@
  - https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/
  - https://www.r-project.org/other-docs.html
  
+ ### NLP
+  - https://colah.github.io/posts/2015-09-Visual-Information/
+  - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+  - https://github.com/tensorflow/nmt
+  - http://nlp.seas.harvard.edu/2018/04/03/attention.html
+  - http://jalammar.github.io/illustrated-transformer/
+  - http://jalammar.github.io/illustrated-bert/
+  - https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a
+ 
  ### Tutorials & courses
+ - https://course.elementsofai.com/
  - [R leaflets](http://www.wekaleamstudios.co.uk/supplementary-material/)
  - https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
@@ -96,6 +106,7 @@
  - https://cran.r-project.org/web/packages/ReinforcementLearning/vignettes/ReinforcementLearning.html
  - https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
  - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+ - http://mnemstudio.org/path-finding-q-learning-tutorial.htm
 
 ### Deep learning and neural net learning
  * https://towardsdatascience.com/self-learning-ai-agents-part-ii-deep-q-learning-b5ac60c3f47
