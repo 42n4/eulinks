@@ -1,5 +1,7 @@
-## SF 
+## SF & NASA
  - https://www.outerplaces.com/xfiles-timeline/
+ - http://niniwa22.cba.pl/ufo-topsecret.html
+ - https://www.nasa.gov/mission_pages/station/main/suni_iss_tour.html
 
 ## History of Games and not only
  - https://www.smithsonianmag.com/science-nature/best-board-games-ancient-world-180974094
@@ -21,13 +23,16 @@
 
 ## DirectX11 on Linux
  - https://wiki.gentoo.org/wiki/DXVK
+ - https://blog.christiansegundo.com/eng/2018-8-1-dxvk-gentoo/
+ - https://github.com/Matoking/protontricks
 
 ```
 #install the latest wine-staging, winetricks and dxvk
-WINEPREFIX=/mnt/db1/wine winetricks corefonts
-WINEPREFIX=/mnt/db1/wine /usr/bin/setup_dxvk.sh install
-WINEPREFIX=/mnt/db1/wine wine StarCraft-II-Setup.exe
-WINEPREFIX=/mnt/db1/wine wine /mnt/db1/wine/drive_c/Program\ Files\ \(x86\)/Battle.net/Battle.net.exe
+WINEPREFIX=/mnt/db/wine winetricks corefonts
+WINEPREFIX=/mnt/db/wine /usr/bin/setup_dxvk.sh install
+WINEPREFIX=/mnt/db/wine wine StarCraft-II-Setup.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Battle.net/Battle.net.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/steam.exe
 ```
 
 ## Music 4 guitar
@@ -89,8 +94,7 @@ apt install minetest #ubuntu
 ##### MINECLONE2 https://forum.minetest.net/viewtopic.php?f=50&t=16407
 ```
 cd /usr/share/minetest/games
-#[ ! -f MineClone2.zip ] && wget https://repo.or.cz/MineClone/MineClone2.git/snapshot/f67c302c3d983bee21195c650fbac46e8567c2d3.zip -O MineClone2.zip && unzip MineClone2.zip && mv MineClone2-f67c302 MineClone2 && rm MineClone2.zip
-[ ! -f MineClone2.zip ] && wget https://git.minetest.land/Wuzzy/MineClone2/archive/0.57.0.tar.gz -O Mineclone2.tar.gz && tar zxvf Mineclone2.tar.gz && rm Mineclone2.tar.gz && mv mineclone2 MineClone2
+[ ! -f MineClone2.zip ] && wget https://git.minetest.land/Wuzzy/MineClone2/archive/0.63.0.tar.gz -O Mineclone2.tar.gz && tar zxvf Mineclone2.tar.gz && rm Mineclone2.tar.gz && mv mineclone2 MineClone2
 ```
 ##### RPGTEST https://forum.minetest.net/viewtopic.php?f=50&t=13761
 ```
