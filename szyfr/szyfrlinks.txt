@@ -1,3 +1,7 @@
+### Open Source
+ - https://blog.dan.drown.org/gnuk-open-source-gpg-ssh-hardware-key-storage/
+ - https://shop.nitrokey.com/shop/product/nk-sta-nitrokey-start-6
+
 ### Security
  - https://niebezpiecznik.pl/post/keepass-jak-zaczac-swoja-przygode-z-managerem-hasel/
  - https://zaufanatrzeciastrona.pl/post/yubikey-dobry-na-wszystko-czyli-sprzetowe-wsparcie-logowania-po-ssh/
@@ -11,9 +15,12 @@
  - https://riseup.net/en/security/message-security/openpgp/best-practices
  - https://www.jabberwocky.com/software/paperkey/
  - https://ttmm.io/tech/yubikey/
+ - https://www.devever.net/~hl/smartcards
  
 ### Yubikey
  - https://nickmooney.com/keybase-pgp-yubikey/
+ - https://www.emsec.rub.de/media/crypto/veroeffentlichungen/2014/02/04/paper_yubikey_sca.pdf 
+ - https://laptrinhx.com/guide-to-setup-a-yubikey-for-fedora-kde-as-2fa-using-u2f-for-the-sddm-login-screen-lock-screen-sudo-and-su-2686335012/
  
 ### Cryptsetup
  - https://we.riseup.net/riseuphelp+en/disk-encryption-kde

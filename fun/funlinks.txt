@@ -1,3 +1,58 @@
+## PC Builds
+ - https://graphicscardhub.com/best-rgb-fan/
+ - https://www.youtube.com/c/GGFEvents/playlists
+ - https://rk.edu.pl/pl/budowa-komputerow-dla-programistow-w-oparciu-o-ryzena-7-1700/
+ - https://rk.edu.pl/pl/nowy-desktop-z-thredripperem-vega-64-i-podwojnym-chlodzeniem-wodnym/
+ - https://builds.gg/croyalore/pluto-mini-itx-chopin-gpu-mod-607
+ - https://www.dobreprogramy.pl/marcinw2/Najwieksza-niewiadoma-to-AMD-pelne-case-study-budowy-mocnego-systemu-ITX,105453.html
+ - https://www.reddit.com/r/Amd/comments/c7qj5e/am4_vcore_vrm_ratings_to_help_you_decide_on_a/
+ - https://www.reddit.com/r/Amd/comments/bvfo57/list_of_b350_b450_x370_and_x470_motherboards_with/
+ - https://www.crowdsupply.com/mnt/reform
+ - https://butterwhat.com/2019/06/16/brians-top-three-diy-nas-cases-as-of-2019.html
+ - https://www.freenas.org/our-community/
+ 
+ 
+#### OC tuning - AMD AM4 power VRM (sekcje zasilania) Intel z490 power limits
+ - https://docs.google.com/spreadsheets/d/1d9_E3h8bLp-TXr-0zTJFqqVxdCR9daIVNyMatydkpFA/htmlview
+ - https://www.gamersnexus.net/guides/3590-dont-run-z490-motherboards-with-default-settings-for-your-build
+ - https://forums.overclockers.com.au/threads/delidding-a-7700k.1243075/
+ - https://forums.tomshardware.com/threads/xeon-v3-full-turbo-unlock-how-to-for-x99-motherboards.3573627/
+ - https://docs.google.com/spreadsheets/d/1wmsTYK9Z3-jUX5LGRoFnsZYZiW1pfiDZnKCjaXyzd1o
+
+
+## Alternative soft
+ - https://sites.google.com/site/altfirmware/
+ - https://www.cyrius.com/debian/
+ - https://weekly-geekly.github.io/articles/244921/index.html
+ - https://www.cyrius.com/debian/kirkwood/qnap/
+
+## DirectX11 on Linux
+ - https://lutris.net/ #use plugins for epic, battle.net - steam has its own proton
+ - https://wiki.gentoo.org/wiki/DXVK
+ - https://blog.christiansegundo.com/eng/2018-8-1-dxvk-gentoo/
+ - https://github.com/Matoking/protontricks
+ - https://github.com/DadSchoorse/vkBasalt
+
+```
+#install the latest wine-staging, winetricks and dxvk
+WINEPREFIX=/mnt/db/wine winetricks mspatcha
+WINEPREFIX=/mnt/db/wine winetricks corefonts
+WINEPREFIX=/mnt/db/wine /usr/bin/setup_dxvk.sh install
+WINEPREFIX=/mnt/db/wine wine StarCraft-II-Setup.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Battle.net/Battle.net.exe
+WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/steam.exe
+```
+
+## InternetRadio
+ - http://www.radio-browser.info
+ - http://www.radio-browser.info/gui/#!/users
+ - https://radiolise.gitlab.io
+ - https://moodeaudio.org/
+ - https://volumio.org/
+ - https://github.com/segler-alex/RadioDroid
+ - https://gitlab.gnome.org/World/Shortwave
+ - https://github.com/cwahlmann/radiopi
+
 ## SF & NASA
  - https://www.outerplaces.com/xfiles-timeline/
  - http://niniwa22.cba.pl/ufo-topsecret.html
@@ -6,6 +61,7 @@
 ## History of Games and not only
  - https://www.smithsonianmag.com/science-nature/best-board-games-ancient-world-180974094
  - https://joemonster.org/art/28745/Historia_brytyjskiego_oreza
+ - http://www.wojciechglac.com/infekcja/
 
 ## Linux Electronics
  - http://www.gpleda.org/
@@ -21,25 +77,18 @@
 ## Fun programming games
  - https://bulldogjob.pl/news/79-przyjemne-z-pozytecznym-7-gier-ktore-pomoga-w-nauce-kodu
 
-## DirectX11 on Linux
- - https://wiki.gentoo.org/wiki/DXVK
- - https://blog.christiansegundo.com/eng/2018-8-1-dxvk-gentoo/
- - https://github.com/Matoking/protontricks
+## Real maps
+ - https://thetruesize.com
 
-```
-#install the latest wine-staging, winetricks and dxvk
-WINEPREFIX=/mnt/db/wine winetricks corefonts
-WINEPREFIX=/mnt/db/wine /usr/bin/setup_dxvk.sh install
-WINEPREFIX=/mnt/db/wine wine StarCraft-II-Setup.exe
-WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Battle.net/Battle.net.exe
-WINEPREFIX=/mnt/db/wine wine /mnt/db/wine/drive_c/Program\ Files\ \(x86\)/Steam/steam.exe
-```
 
 ## Music 4 guitar
  - http://www.scalerator.com/?optionsDisp=yes&selLeft=950&menuTab=instructions&root=C&pattern=major&tuning=EADGBE&size=50
+ - https://www.thegearpage.net/board/index.php?threads/the-official-fender-mustang-gtx-amp-thread-2020.2113060/page-58
+ - https://www.youtube.com/watch?time_continue=432&v=vvRH9YEPCqM&feature=emb_logo
 
 ## DAC
  - https://www.audiofanatyk.pl/polecane-daci-i-karty-dzwiekowe/
+ - http://archimago.blogspot.com/2016/10/measurements-hifiberry-dac-pro-pcm5122.html
  
 ## Mody słuchawkowe
  - https://www.head-fi.org/threads/akg-k240-studio-owners-please-share-your-experience.630058/
@@ -94,7 +143,7 @@ apt install minetest #ubuntu
 ##### MINECLONE2 https://forum.minetest.net/viewtopic.php?f=50&t=16407
 ```
 cd /usr/share/minetest/games
-[ ! -f MineClone2.zip ] && wget https://git.minetest.land/Wuzzy/MineClone2/archive/0.63.0.tar.gz -O Mineclone2.tar.gz && tar zxvf Mineclone2.tar.gz && rm Mineclone2.tar.gz && mv mineclone2 MineClone2
+[ ! -f MineClone2.zip ] && wget https://git.minetest.land/Wuzzy/MineClone2/archive/0.68.0.tar.gz -O Mineclone2.tar.gz && tar zxvf Mineclone2.tar.gz && rm Mineclone2.tar.gz && mv mineclone2 MineClone2
 ```
 ##### RPGTEST https://forum.minetest.net/viewtopic.php?f=50&t=13761
 ```
@@ -114,9 +163,13 @@ git clone https://github.com/AiTechEye/xaenvironment.git
 ##### MINETEST_GAME default game https://github.com/minetest/minetest_game
 ```
 cd /usr/share/minetest/games
-wget https://github.com/minetest/minetest_game/archive/5.1.0.tar.gz -O minetest_game.tar.gz
-tar zxvf minetest_game.tar.gz
-mv minetest_game-5.1.0 minetest_game
+#wget https://github.com/minetest/minetest_game/archive/5.3.0.tar.gz -O minetest_game.tar.gz
+#tar zxvf minetest_game.tar.gz
+#mv minetest_game-5.3.0 minetest_game
+wget https://codeload.github.com/minetest/minetest_game/zip/master -O minetest_game.zip
+unzip minetest_game.zip
+mv minetest_game-master minetest_game
+rm minetest_game.zip
 ```
 
 #### MODY do podstawowej gry MINETEST_GAME https://www.minetest.net/customize/ 
